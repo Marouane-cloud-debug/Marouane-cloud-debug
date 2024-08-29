@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marouane Djabri
-- 👀 I’m interested in Cyber Security , Spring Boot or any ROBUST technology .
-- 🌱 I’m currently learning Spring Boot .
+- 👀 I’m interested in y .
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me nm_djabri@esi.dz
 - 😄 Pronouns: he/him
