@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marouane Djabri
-- 👀 I’m interested in y .
-- 🌱 I’m currently 
+- 👀 I’m interested in Artificial intelligence .
+- 🌱 I’m currently studying for a CS degree 
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me nm_djabri@esi.dz
 - 😄 Pronouns: he/him
